@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Modassar</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">I am currently doing backend developer training with FunctionUp, I did many projects and assignment with functionup,I looking for good experience in this field</h3>
 
 <imge align="right" alt="coding" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
