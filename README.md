@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-modassar&label=Profile%20views&color=0e75b6&style=flat" alt="md-modassar" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:mdmodassar622@gmail.com</h3>
+<h3 align="left">Connect with me:8292812152</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-modassar-7897a4267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-modassar-7897a4267" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/mdmodassar633/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mdmodassar633/" height="30" width="40" /></a>
